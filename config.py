@@ -1,0 +1,1 @@
+# Arquivo de configuração (ex: tokens, variáveis)
